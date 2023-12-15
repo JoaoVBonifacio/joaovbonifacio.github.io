@@ -588,6 +588,14 @@ section {
   justify-content: flex-start;
 }
 
+.gif {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  padding-bottom: 3rem;
+}
+
 /*Independed components*/
 .btn-con {
   display: flex;
@@ -931,6 +939,10 @@ section {
   .main-title h2 .bg-text {
     font-size: 4rem;
   }
+  .gif {
+    max-width: 100%;
+    height: auto;
+}
 }
 
 /*# sourceMappingURL=styles.css.map */
